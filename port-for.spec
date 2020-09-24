@@ -4,7 +4,7 @@
 #
 Name     : port-for
 Version  : 0.4
-Release  : 1
+Release  : 2
 URL      : https://files.pythonhosted.org/packages/cd/68/57f6d5cae15125acc0f3e2a5117de5e2d83f4e96c4d97e088122557b3d70/port-for-0.4.tar.gz
 Source0  : https://files.pythonhosted.org/packages/cd/68/57f6d5cae15125acc0f3e2a5117de5e2d83f4e96c4d97e088122557b3d70/port-for-0.4.tar.gz
 Summary  : Utility that helps with local TCP ports managment. It can find an unused TCP localhost port and remember the association.
